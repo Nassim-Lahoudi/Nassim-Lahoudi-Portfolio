@@ -17,7 +17,15 @@ button{
 }
 
 @media (max-width: 768px) {
-    body{
+    body {
         background-color: grey;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    * {
+        display: none; /* Versteckt alle Elemente */
     }
 }
