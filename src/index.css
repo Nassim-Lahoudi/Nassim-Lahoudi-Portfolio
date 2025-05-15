@@ -26,6 +26,7 @@ button{
     }
 
     * {
-        display: none; /* Versteckt alle Elemente */
+        display: none;
+        background-color: grey;/* Versteckt alle Elemente */
     }
 }
