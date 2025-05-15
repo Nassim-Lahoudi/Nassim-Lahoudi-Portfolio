@@ -1,0 +1,122 @@
+.navbar-container{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.name-container{
+    display: flex;
+    margin-top: 70px;
+    text-align: center;
+    margin-bottom: 70px;
+    justify-content: center;
+}
+
+.main-content-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.introduction-text-container{
+    display: flex;
+    margin-right: 120px;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-container{
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    margin-top: 100px;
+    position: relative;
+    background-color: lightblue;
+}
+
+.first-content-container{
+    display: flex;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2.5px solid black;
+}
+
+.links-container{
+    display: flex;
+    margin-right: 50px;
+    justify-content: right;
+}
+
+.copyright-container{
+    margin-left: 100px;
+}
+
+.unordered-list-appearance{
+    display: flex;
+    list-style-type: none;
+}
+
+.list-element{
+    font-size: 22px;
+    margin-inline: 30px;
+}
+
+.link-element:hover{
+    color: #2596be;
+}
+
+.headline-appearance{
+    font-size: 40px;
+}
+
+.paraghraph-appearance{
+    font-size: 24px;
+}
+
+.image-appearance{
+    width: auto;
+    height: 350px;
+}
+
+.copyright-text-appearance{
+    font-size: 22px;
+}
+
+.icon-appearance{
+    width: auto;
+    height: 100px;
+}
+
+.list-element-aboutme{
+    font-size: 22px;
+    list-style: square;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.list-element-aboutme-under{
+    font-size: 18px;
+    margin-top: 10px;
+    list-style-type: circle;
+}
+
+.first-list-container{
+    margin-right: 100px;
+}
+
+.second-list-container{
+    align-self: center;
+}
+
+.project-img{
+    width: auto;
+    height: 200px;
+}
